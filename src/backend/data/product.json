@@ -1,0 +1,9 @@
+{
+    "name":"Laptop",
+    "description":"Very nice product",
+    "price":200,
+    "seller":"Shahid",
+    "stock":300,
+    "category":"Headphones"
+    
+  }

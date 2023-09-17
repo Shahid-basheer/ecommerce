@@ -3,6 +3,7 @@ const nextConfig = {
   reactStrictMode: true,
   env:{
     DB_URL:'mongodb+srv://shahid123:shahid123@cluster0.ciqpaax.mongodb.net/',
+    API_URL:"https://ecommerce-iota-henna-37.vercel.app/",
     CLOUD_NAME: "dnvykpdlo",
     CLOUDINARY_API_KEY: "264966254412949",
     CLOUDINARY_API_SECRET: "oBepswHk17zfn0GAQmMAQsqr8U4",

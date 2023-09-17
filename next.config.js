@@ -10,7 +10,7 @@ const nextConfig = {
     NEXTAUTH_SECRET:"coding",
     STRIPE_PUBLIC_KEY: "pk_test_51Np8LVSJO1ZZV7ezQo86PEQJD0w2wWi5BtnjKNUMyjz5yrJDrNzks8tWpPpThKjdfieeikQuGYqOcHFQP8gTPeH800NUaetTSO",
     STRIPE_PRIVATE_KEY: "sk_test_51Np8LVSJO1ZZV7ezXztwxc33RRu9bGfs1KkXJZnYzG1dmUCchb7Uow8z6FfskK6gf5CgivgZmoLOKm2lH5Fb86Cz00RGVo8Kgo",
-    STRIPE_WEBHOOK_SECRET:"we_1NrRxYSJO1ZZV7ezwatZwDLH",
+    STRIPE_WEBHOOK_SECRET:"whsec_Bjz3xhopzpxebOj4JKF20UQVdhega5Na",
   },
   images:{
     domains:['res.cloudinary.com','encrypted-tbn0.gstatic.com']
